@@ -1,0 +1,5 @@
+name: flask-tutorial
+channels:
+- defaults
+prefix: /home/vaidas/anaconda3/envs/flask-tutorial
+
